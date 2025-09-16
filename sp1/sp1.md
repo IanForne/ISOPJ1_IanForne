@@ -2,4 +2,4 @@
 Text de la **PROVA** 1: Hola *mundo*
 
 ## Imatge:
-![GATO](/assets/gato.jpg)
+![GATO](gato.jpg)
