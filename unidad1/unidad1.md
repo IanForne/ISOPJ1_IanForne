@@ -17,7 +17,7 @@ A continuació, he asignat 80gb d'espai per a la màquina virtual.
 
 ## Creació de les particions
  
-En primer lloc, he creat una partició per al EFI. La partició de l'EFI es necessària si estem utilitzant UEFI, ja que s'encarrega d'arrencar lo carregador d'arranc del sistema operatiu.
+En primer lloc, he creat una partició per al EFI. La partició de l'EFI es necessària si estem utilitzant UEFI, ja que s'encarrega de fer funciomar el carregador d'arranc del sistema operatiu. Aquesta partició s'utilitza com Ext4 o FAT32 perqué és compatible amb tamanys de discs petits, i per a l'EFI no necessitem més de 512 MB.
 
 ![](./imatges/EFI.png)
 
