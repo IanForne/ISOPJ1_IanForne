@@ -10,7 +10,7 @@ El primer que he fet ha sigut crear una màquina virtual. Per a saber les especi
 
 A continuació, he asignat 80gb d'espai per a la màquina virtual.
 
-
+![](./imatges/Disc.png)
 
 ## Llicenciament
 ## Gestors d'arrencada per a instal·lacións DUALS
