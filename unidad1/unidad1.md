@@ -26,6 +26,13 @@ El punt de muntatge està a: /boot/efi. Sense aquesta partició, el sistema no a
 En segon lloc, he creat una partició per a al /root. Aqui es on viu el sistema operatiu, s'utulitza per emmagatzemar els programes, les llibreries, etc.
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e69331cc-e0ce-4ad8-a189-eadf25ec3dce" />
 
+En tercer lloc, asduiashdishadhasdad
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6f062cb-eaa5-4cd9-8fbf-9ca7a3b6624a" />
+
+I finalment, el /home
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7149ad9-7fd5-44c7-8a2b-7a67bff6a8ed" />
+
+
 ## Llicenciament
 ## Gestors d'arrencada per a instal·lacións DUALS
 ## Punts de restauració
