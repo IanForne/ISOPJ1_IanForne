@@ -17,9 +17,13 @@ A continuació, he asignat 80gb d'espai per a la màquina virtual.
 
 ## Creació de les particions
  
-En primer lloc, he creat una partició per al EFI. La partició de l'EFI es necessària si estem utilitzant UEFI, ja que s'encarrega de fer funciomar el carregador d'arranc del sistema operatiu. Aquesta partició s'utilitza com Ext4 o FAT32 perqué és compatible amb tamanys de discs petits, i per a l'EFI no necessitem més de 512 MB.
+En primer lloc, he creat una partició per al EFI. La partició de l'EFI es necessària si estem utilitzant UEFI, ja que s'encarrega de fer funciomar el carregador d'arranc del sistema operatiu. 
+Aquesta partició s'utilitza com FAT32 o VFAT perqué UEFI només funciona amb aquest tipus. El tamany de 512 MB és suficient. 
+El punt de muntatge està a: /boot/efi. Sense aquesta partició, el sistema no arrancaria en mode UEFI.
 
 ![](./imatges/EFI.png)
+
+En segon lloc, he creat una partició per a al /root. Aquesta s'utilitza per emmagatzemar els programes, les llibreries
 
 ## Llicenciament
 ## Gestors d'arrencada per a instal·lacións DUALS
