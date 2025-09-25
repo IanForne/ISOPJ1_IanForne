@@ -23,7 +23,8 @@ El punt de muntatge està a: /boot/efi. Sense aquesta partició, el sistema no a
 
 ![](./imatges/EFI.png)
 
-En segon lloc, he creat una partició per a al /root. Aquesta s'utilitza per emmagatzemar els programes, les llibreries
+En segon lloc, he creat una partició per a al /root. Aqui es on viu el sistema operatiu, s'utulitza per emmagatzemar els programes, les llibreries, etc.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e69331cc-e0ce-4ad8-a189-eadf25ec3dce" />
 
 ## Llicenciament
 ## Gestors d'arrencada per a instal·lacións DUALS
