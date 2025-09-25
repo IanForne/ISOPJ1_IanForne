@@ -32,6 +32,7 @@ En tercer lloc, asduiashdishadhasdad
 I finalment, el /home
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7149ad9-7fd5-44c7-8a2b-7a67bff6a8ed" />
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fb213c40-2ecf-4c5a-84bc-4056604309a5" />
 
 ## Llicenciament
 ## Gestors d'arrencada per a instal·lacións DUALS
