@@ -32,6 +32,12 @@ En tercer lloc, el SWAP. És un espai virtual reservat per a quan s'ompli la mem
 I finalment, el /home, que es la carpeta personal de cada usuari (archius, documents, descargues, configuracions).
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7149ad9-7fd5-44c7-8a2b-7a67bff6a8ed" />
 
+----------------------
+## Llicències d'us d'Ubuntu
+
+Ubuntu, a diferència de Windows o MacOS, no es necesàri pagar una llicència comercial per a utilitzar-lo, ja que es basa en el software lliure.
+
+
 ## Llicenciament
 ## Gestors d'arrencada per a instal·lacións DUALS
 ## Punts de restauració
