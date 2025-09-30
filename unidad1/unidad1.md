@@ -67,6 +67,11 @@ I finalment, eliminar els paquets innecessaris amb "sudo apt autoremove -y".
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8f8fa28e-9ba2-4548-8748-14dd8f8432f4" />
 
+A part, també és recomanable instal·lar eines addicionals.
+
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d816844a-6dde-458b-853a-a709f72da8c8" />
+
+
 Per començar, podem programar les actualitzacions periòdiques del sistema per mantenir-lo al dia, ja que fer-ho és el millor per mantenir la màxima seguretat en el sistema, ja que el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
 
 
