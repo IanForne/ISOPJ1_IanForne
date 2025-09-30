@@ -76,7 +76,7 @@ A part, també és recomanable instal·lar eines addicionals.
 ### 3.1.2 Actualitzacions periòdiques de seguretat
 Per començar, podem programar actualitzacions periòdiques de seguretat per al sistema, ja que fer-ho és la millor manera per mantenir la màxima seguretat en el sistema sense trencar dependències. Així doncs, el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
 
-Per fer això, podem començar per 
+Per fer això, podem començar per fer un "sudo apt install unattended-upgrades -y" (normalment abans es fa un "sudo apt update", però l'hem fet recentment en l'apartat anterior així que no es necessàri). Aquesta comanda, el que fa es programar
 
 ### 3.1.3 Backups i snapshots
 
