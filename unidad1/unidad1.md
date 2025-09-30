@@ -55,17 +55,17 @@ En canvi, Linux és un sistema de codi obert amb moltes distribucions diferents,
 
 En aquest apartat explorarem la prevenció que podem aplicar al nostre sistema operatiu per evitar el màxim de futurs inconvenients.
 
-Per començar, podem actualitzar manualment la llista de paquets.
+Per començar, podem actualitzar manualment la llista de paquets amb "sudo apt update".
 
 <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/805e6630-4e00-400f-9a6e-699aafe0308e" /> <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/59532ca5-1fc9-4075-a070-79b90916dadf" />
 
-Per a seguidament, aplicar actualitzacions de seguretat i millores en el sistema.
+Per a seguidament, aplicar actualitzacions de seguretat i millores en el sistema amb "sudo apt upgrade -y".
 
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6e9b26b8-8f52-43cc-9761-65da6843bb67" />
 
+I finalment, eliminar els paquets innecessaris amb "sudo apt autoremove -y".
 
-I finalment, eliminar els paquets innecessaris.
-
-
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8f8fa28e-9ba2-4548-8748-14dd8f8432f4" />
 
 Per començar, podem programar les actualitzacions periòdiques del sistema per mantenir-lo al dia, ja que fer-ho és el millor per mantenir la màxima seguretat en el sistema, ja que el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
 
