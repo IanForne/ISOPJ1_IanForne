@@ -76,7 +76,24 @@ A part, també és recomanable instal·lar eines addicionals.
 ### 3.1.2 Actualitzacions periòdiques de seguretat
 Per començar, podem programar actualitzacions periòdiques de seguretat per al sistema, ja que fer-ho és la millor manera per mantenir la màxima seguretat en el sistema sense trencar dependències. Així doncs, el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
 
-Per fer això, podem començar per fer un "sudo apt install unattended-upgrades -y" (normalment abans es fa un "sudo apt update", però l'hem fet recentment en l'apartat anterior així que no es necessàri). Aquesta comanda, el que fa es programar
+Per fer això, podem començar per fer un "sudo apt install unattended-upgrades -y" (normalment abans es fa un "sudo apt update", però l'hem fet recentment en l'apartat anterior així que no es necessàri). Aquesta comanda, el que fa es instal·lar el paquet "unattended-upgrades", que permet aplicar actualitzacions automàtiques.
+
+<img width="1280" height="800" alt="imatge" src="https://github.com/user-attachments/assets/4cebd7f6-1107-4b42-9fdd-7b8e85b4ed66" />
+
+A continuació, hem de fer un ""
+
+<img width="817" height="538" alt="imatge" src="https://github.com/user-attachments/assets/df355c16-e04b-4ddf-a433-fc95945cb381" />
+
+<img width="817" height="538" alt="imatge" src="https://github.com/user-attachments/assets/84480f15-6dc9-4ee3-a917-d6f3e560f33a" />
+
+I finalment, podem modificar la freqüència en que es fan aquestes actualitzacions. Això ho podem fer amb "sudo nano /etc/apt/apt.conf.d/20auto-upgrades". 
+
+Com es veu en la imatge, la primera fila de codi serveix per a actualitzar la llista de paquets disponibles, i el numero "1" es per indicar la freqüència en dies. En el meu cas, no ho modificaré per a estar el més actualitzat disponible cada dia.
+
+D'altra banda, la segona linia s'encarrega d'actualitzar els paquets de seguretat cada "1" dia també.
+<img width="817" height="538" alt="imatge" src="https://github.com/user-attachments/assets/759a0c23-e38c-414e-a7a3-2a9fc3b74d4a" />
+
+
 
 ### 3.1.3 Backups i snapshots
 
