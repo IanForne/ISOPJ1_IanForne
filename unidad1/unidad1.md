@@ -43,7 +43,11 @@ Per exemple, Windows és el sistema operatiu més utilitzat tant en l'entorn dom
 
 Així com macOS, que està desenvolupat per Apple, també és privatiu, i a més, només pot funcionar amb maquinari de la marca. Les seves principals característiques son un disseny molt cuidat i una gran optimització amb el seu ecosistema, cosa la cual el converteix en una opció molt popular en entorns creatius com el disseny gràfic, l’edició i producció de vídeo o àudio.
 
+<img width="320" height="180" alt="image" src="https://github.com/user-attachments/assets/7527b08e-14bb-4791-b236-83d4df50904c" />
+
 En canvi, Linux és un sistema de codi obert amb moltes distribucions diferents, com Ubuntu, Debian, Fedora, etc. Destaca per la seva seguretat, estabilitat i flexibilitat, i normalment és de llicència gratiuta. Tot i que té menos presència en ordinadors personals, és el que més s'utilitza en servidors, superordinadors, núvol i desenvolupament de programari.
+
+<img width="330" height="165" alt="image" src="https://github.com/user-attachments/assets/1e2320ff-3800-4ec6-a64a-06f794d50a27" />
 
 ## Llicenciament
 ## Gestors d'arrencada per a instal·lacións DUALS
