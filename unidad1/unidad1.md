@@ -55,15 +55,15 @@ En canvi, Linux és un sistema de codi obert amb moltes distribucions diferents,
 
 En aquest apartat explorarem la prevenció que podem aplicar al nostre sistema operatiu per evitar el màxim de futurs inconvenients.
 
-Per començar, podem actualitzar manualment la llista de paquets amb "sudo apt update".
+Per començar, podem actualitzar manualment la llista de paquets amb "sudo apt update". Aquesta comanda fa saber al sistema quins paquets tenen versions noves, i si hi ha actualitzacions disponibles. Per exemple, si ha sortit una nova versió del Firefox, aquesta comanda ho farà saber al sistema.
 
 <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/805e6630-4e00-400f-9a6e-699aafe0308e" /> <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/59532ca5-1fc9-4075-a070-79b90916dadf" />
 
-Per a seguidament, aplicar actualitzacions de seguretat i millores en el sistema amb "sudo apt upgrade -y".
+Per a seguidament, aplicar actualitzacions de seguretat i millores en el sistema amb "sudo apt upgrade -y". Aquesta comanda el que fa és instal·lar totes les actualitzacions disponibles dels paquets del sistema. Aixó fa que sigui molt més segur, ja que aplica les ultimes millores i correccions de seguretat.
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/6e9b26b8-8f52-43cc-9761-65da6843bb67" />
 
-I finalment, eliminar els paquets innecessaris amb "sudo apt autoremove -y".
+I finalment, eliminar els paquets innecessaris amb "sudo apt autoremove -y". Això, el que fa es eliminar els paquets que han quedat desactualitzats o que ja no s'utilitzen despres d'instal·lar els més actuals.
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/8f8fa28e-9ba2-4548-8748-14dd8f8432f4" />
 
