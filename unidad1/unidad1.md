@@ -73,8 +73,16 @@ A part, també és recomanable instal·lar eines addicionals.
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d816844a-6dde-458b-853a-a709f72da8c8" />
 
-### 3.1.2
-Per començar, podem programar les actualitzacions periòdiques del sistema per mantenir-lo al dia, ja que fer-ho és el millor per mantenir la màxima seguretat en el sistema, ja que el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
+### 3.1.2 Actualitzacions periòdiques de seguretat
+Per començar, podem programar actualitzacions periòdiques de seguretat per al sistema, ja que fer-ho és la millor manera per mantenir la màxima seguretat en el sistema sense trencar dependències. Així doncs, el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
+
+Per fer això, podem començar per 
+
+### 3.1.3 Backups i snapshots
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3371d2c-3a39-40d7-ba6a-e69341c61c12" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a882a72c-e044-4009-950e-826f7b3ee3d7" />
 
 
 
