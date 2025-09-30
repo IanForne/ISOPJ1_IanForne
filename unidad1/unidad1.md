@@ -55,9 +55,15 @@ En canvi, Linux és un sistema de codi obert amb moltes distribucions diferents,
 
 En aquest apartat explorarem la prevenció que podem aplicar al nostre sistema operatiu per evitar el màxim de futurs inconvenients.
 
-Per començar, podem actualitzar manualment la llista de paquets, aplicar actualitzacions de seguretat i, ja que ens posem, podem eliminar els paquets innecessaris.
+Per començar, podem actualitzar manualment la llista de paquets.
 
 <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/805e6630-4e00-400f-9a6e-699aafe0308e" /> <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/59532ca5-1fc9-4075-a070-79b90916dadf" />
+
+Per a seguidament, aplicar actualitzacions de seguretat i millores en el sistema.
+
+
+
+I finalment, eliminar els paquets innecessaris.
 
 
 
