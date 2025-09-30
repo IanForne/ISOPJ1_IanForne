@@ -52,10 +52,12 @@ En canvi, Linux és un sistema de codi obert amb moltes distribucions diferents,
 -----------------------------------------
 ## 3. Tècniques d'actualització i rescat del sistema
 ### 3.1. Prevenció
+En aquest apartat explorarem la prevenció d'errors o de seguretat que podem aplicar al nostre sistema operatiu per evitar el màxim d'inconvenients futurs.
+#### 3.1.1 Primera arrencada del sistema
 
-En aquest apartat explorarem la prevenció que podem aplicar al nostre sistema operatiu per evitar el màxim de futurs inconvenients.
+És molt important mantenir el sistema actualitzat des d'un inici, i a més, instal·lar unes eines bàsiques per al millor rendiment del nostre nou i bàsic sistema operatiu
 
-Per començar, podem actualitzar manualment la llista de paquets amb "sudo apt update". Aquesta comanda fa saber al sistema quins paquets tenen versions noves, i si hi ha actualitzacions disponibles. Per exemple, si ha sortit una nova versió del Firefox, aquesta comanda ho farà saber al sistema.
+Per començar, podem actualitzar manualment la llista de paquets amb "sudo apt update". Aquesta comanda fa saber al sistema quins paquets tenen versions noves, i si hi ha actualitzacions disponibles. Per exemple, si ha sortit una nova versió del Firefox, aquesta comanda ho farà saber al sistema, però no l'instal·larà.
 
 <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/805e6630-4e00-400f-9a6e-699aafe0308e" /> <img width="480" height="300" alt="image" src="https://github.com/user-attachments/assets/59532ca5-1fc9-4075-a070-79b90916dadf" />
 
@@ -71,7 +73,7 @@ A part, també és recomanable instal·lar eines addicionals.
 
 <img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/d816844a-6dde-458b-853a-a709f72da8c8" />
 
-
+### 3.1.2
 Per començar, podem programar les actualitzacions periòdiques del sistema per mantenir-lo al dia, ja que fer-ho és el millor per mantenir la màxima seguretat en el sistema, ja que el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
 
 
