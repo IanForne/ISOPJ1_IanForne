@@ -53,7 +53,13 @@ En canvi, Linux és un sistema de codi obert amb moltes distribucions diferents,
 ## 3. Tècniques d'actualització i rescat del sistema
 ### 3.1. Prevenció
 
-ASd
+En aquest apartat explorarem la prevenció que podem aplicar al nostre sistema operatiu per evitar el màxim de futurs inconvenients.
+
+Per començar, podem actualitzar manualment la llista de paquets, aplicar actualitzacions de seguretat i, ja que ens posem, podem eliminar els paquets innecessaris.
+
+
+
+Per començar, podem programar les actualitzacions periòdiques del sistema per mantenir-lo al dia, ja que fer-ho és el millor per mantenir la màxima seguretat en el sistema, ja que el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
 
 
 
