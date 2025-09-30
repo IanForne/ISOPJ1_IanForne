@@ -49,6 +49,22 @@ En canvi, Linux és un sistema de codi obert amb moltes distribucions diferents,
 
 <img width="330" height="165" alt="image" src="https://github.com/user-attachments/assets/1e2320ff-3800-4ec6-a64a-06f794d50a27" />
 
+-----------------------------------------
+## 3. Tècniques d'actualització i rescat del sistema
+### 3.1. Prevenció
+
+ASd
+
+
+
+
+
+
+
+
+
+
+
 ## Llicenciament
 ## Gestors d'arrencada per a instal·lacións DUALS
 ## Punts de restauració
