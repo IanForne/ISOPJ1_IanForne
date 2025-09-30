@@ -80,10 +80,10 @@ Per fer això, podem començar per fer un "sudo apt install unattended-upgrades 
 
 <img width="1280" height="800" alt="imatge" src="https://github.com/user-attachments/assets/4cebd7f6-1107-4b42-9fdd-7b8e85b4ed66" />
 
-A continuació, hem de fer un ""
+A continuació, hem de fer un "sudo nano /etc/apt/apt.conf.d/50unattended-upgrades", que obrirà el fitxer de configuració "unattended-upgrades". Aqui es on li direm al sistema que nomes actualitzi els paquets de seguretat.
 
 <img width="817" height="538" alt="imatge" src="https://github.com/user-attachments/assets/df355c16-e04b-4ddf-a433-fc95945cb381" />
-
+Clicarem Control+T per executar la seguent linia ""${distro_id}:${distro_codename}-security";"
 <img width="817" height="538" alt="imatge" src="https://github.com/user-attachments/assets/84480f15-6dc9-4ee3-a917-d6f3e560f33a" />
 
 I finalment, podem modificar la freqüència en que es fan aquestes actualitzacions. Això ho podem fer amb "sudo nano /etc/apt/apt.conf.d/20auto-upgrades". 
