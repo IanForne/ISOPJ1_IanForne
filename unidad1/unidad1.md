@@ -38,8 +38,8 @@ I finalment, el /home, que es la carpeta personal de cada usuari (archius, docum
 Hi ha molts tipus de sistemes operatius, però hem centraré en els tres més principals: Windows, Linux i macOS. Cadascún d'ells ha estat especificament dissenyat per a diferents funcions. A més, els seus tipus de llicència poden variar molt entre ells.
 
 Per exemple, Windows és el sistema operatiu més utilitzat tant en l'entorn domèstic com empresarial. Ofereix una interfície gràfica intuïtiva i una gran compatibilitat amb programari i maquinari, però és de llicència privativa i requereix pagament. S’utilitza sobretot per a treball d’ofimàtica, videojocs i aplicacions d’empresa.
-<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/6a0bb343-ca24-4d70-8222-390693d731e9" />
 
+<img width="318" height="159" alt="image" src="https://github.com/user-attachments/assets/6a0bb343-ca24-4d70-8222-390693d731e9" />
 
 Així com macOS, que està desenvolupat per Apple, també és privatiu, i a més, només pot funcionar amb maquinari de la marca. Les seves principals característiques son un disseny molt cuidat i una gran optimització amb el seu ecosistema, cosa la cual el converteix en una opció molt popular en entorns creatius com el disseny gràfic, l’edició i producció de vídeo o àudio.
 
