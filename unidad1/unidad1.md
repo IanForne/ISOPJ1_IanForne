@@ -57,6 +57,10 @@ En aquest apartat explorarem la prevenció que podem aplicar al nostre sistema o
 
 Per començar, podem actualitzar manualment la llista de paquets, aplicar actualitzacions de seguretat i, ja que ens posem, podem eliminar els paquets innecessaris.
 
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/805e6630-4e00-400f-9a6e-699aafe0308e" />
+
+<img width="640" height="400" alt="image" src="https://github.com/user-attachments/assets/59532ca5-1fc9-4075-a070-79b90916dadf" />
+
 
 
 Per començar, podem programar les actualitzacions periòdiques del sistema per mantenir-lo al dia, ja que fer-ho és el millor per mantenir la màxima seguretat en el sistema, ja que el sistema de seguretat està el màxim actualitzat possible sempre, així com es manté la màxima compabilitat amb tot el programari que puguem utilitzar.
