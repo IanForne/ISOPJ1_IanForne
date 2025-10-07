@@ -62,6 +62,13 @@ Després he seguit abançant amb la instal·lació convencional de Windows 10.
 
 <img width="1036" height="803" alt="Captura de pantalla de 2025-10-07 11-54-05" src="https://github.com/user-attachments/assets/70234776-05ac-4438-a69f-6bc735c38193" />
 
+Ara, he verificat que en apagar la màquina i tornarla a encendre, s'inicia amb el Windows.
+<img width="1028" height="770" alt="image" src="https://github.com/user-attachments/assets/39698522-4f1a-4712-a1d1-d1cec75e055c" />
+
+A continuació, he accedit al firezilla i he instalat el grub.
+<img width="590" height="137" alt="image" src="https://github.com/user-attachments/assets/3fcd89d7-0679-4f25-b372-2428e440d1ef" />
+
+Després, he borrat l'iso del Windows 10.
 
 
 
