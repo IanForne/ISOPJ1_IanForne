@@ -21,16 +21,16 @@ En primer lloc, he creat una partició per al EFI. La partició de l'EFI es nece
 Aquesta partició s'utilitza com FAT32 o VFAT perqué UEFI només funciona amb aquest tipus. El tamany de 512 MB és suficient. 
 El punt de muntatge està a: /boot/efi. Sense aquesta partició, el sistema no arrancaria en mode UEFI.
 
-![](./imatges/EFI.png)
+<img width="596" height="418" alt="Captura de pantalla de 2025-10-07 10-09-20" src="https://github.com/user-attachments/assets/bc73db09-5a36-4241-8ad8-e342c03a36b7" />
 
-En segon lloc, he creat una partició per a al /root. Aqui es on viu el sistema operatiu, s'utulitza per emmagatzemar els programes, les llibreries, etc.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e69331cc-e0ce-4ad8-a189-eadf25ec3dce" />
+En segon lloc, el /home, que es la carpeta personal de cada usuari (archius, documents, descargues, configuracions). 
+<img width="596" height="418" alt="Captura de pantalla de 2025-10-07 10-07-05" src="https://github.com/user-attachments/assets/4516d637-b459-4db5-9516-f765846dacd0" />
 
 En tercer lloc, el SWAP. És un espai virtual reservat per a quan s'ompli la memòria ram del sistema. Evita que el sistema es bloqueji si s'avaba la RAM.
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a6f062cb-eaa5-4cd9-8fbf-9ca7a3b6624a" />
+<img width="596" height="418" alt="Captura de pantalla de 2025-10-07 10-15-39" src="https://github.com/user-attachments/assets/1207dc1a-8caa-47a1-9e00-f4d0479537b2" />
 
-I finalment, el /home, que es la carpeta personal de cada usuari (archius, documents, descargues, configuracions).
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/a7149ad9-7fd5-44c7-8a2b-7a67bff6a8ed" />
+I finalment, he creat una partició a / per a al root. He fet servir el que quedava d'espai, deixant just 40 GB lliures. Aqui es on viu el sistema operatiu, s'utulitza per emmagatzemar els programes, les llibreries, etc.
+<img width="596" height="418" alt="Captura de pantalla de 2025-10-07 10-16-34" src="https://github.com/user-attachments/assets/aec2c343-1a27-4e31-89d6-0e6cefa20395" />
 
 ----------------------
 ## 3. Comparativa dels dieferents SO
