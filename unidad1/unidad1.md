@@ -87,8 +87,22 @@ I finalment, dins de les opcions de boot del ubuntu, he seleccionat l'opció gpt
 
 El que hem aconseguit és iniciar la màquina virtual amb el sistema operatiu d'Ubuntu, per a ara poder ficar-li un grub que quan engeguem la màquina virtual de 0, ens doni l'opció d'elegir si volem iniciar-la en Windows o en Ubuntu.
 
+## Configuració del grub des de Ubuntu
 
+Una vegada iniciat Ubuntu, he instal·lat el grub en la partició sda
+<img width="715" height="164" alt="Captura de pantalla de 2025-10-07 13-15-56" src="https://github.com/user-attachments/assets/fdf88e0e-a37a-4092-bd25-a7a9db0ec995" />
 
+Després, he actualitzat la llista de paquets del grub.
+<img width="613" height="104" alt="Captura de pantalla de 2025-10-07 13-16-37" src="https://github.com/user-attachments/assets/3f6aff09-d510-4318-9295-a9a19454d28f" />
+
+Després, he accedit al root i he executat les següents comandes.
+<img width="813" height="355" alt="Captura de pantalla de 2025-10-07 13-18-56" src="https://github.com/user-attachments/assets/9b27ee65-fb69-4282-bc2f-983a00971df8" />
+He accedit a aquests fitxers i he descomentat la següent linea.
+<img width="571" height="192" alt="Captura de pantalla de 2025-10-07 13-17-47" src="https://github.com/user-attachments/assets/0bdb17b7-e699-4281-9cdf-0a8b21e650a3" />
+
+Finalment he guardat els canvis i ja hem deixa accedir tant al Windows com al Ubuntu.
+<img width="1027" height="767" alt="image" src="https://github.com/user-attachments/assets/3dcca637-4c30-4a21-bede-22ffd1a8d47b" />
+<img width="1279" height="800" alt="Captura de pantalla de 2025-10-07 13-24-35" src="https://github.com/user-attachments/assets/39224b5d-99cf-4233-b899-0c2605042919" />
 
 
 ## Llicenciament
