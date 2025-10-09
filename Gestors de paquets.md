@@ -1,6 +1,6 @@
 Instal·lar i desinstal·lar en dpkg, apt, aptitude --> Com s'instala, obrir lo progreama, desinstal·lar i obrir i veure com falla pq esta desinstal·lat. Provar vlc, pacman, gimp, phpstorm, geany, dia, smplayer...
 
-## Pacman
+## 1. Pacman
 
 En primer lloc, instal·larem el .deb del pacman mitjançant el moodle. Seguidament, accedirem a la carpeta on s'ha fet la instal·lació i utilitzarem la comanda dpkg, ja que és un deb.
 <img width="799" height="570" alt="image" src="https://github.com/user-attachments/assets/78534e65-db8c-47ce-94f4-dfb80b23c707" />
@@ -14,7 +14,7 @@ Seguidament, podem desinstal·lar pacman amb apt remove.
 I com veiem, si intentem obrir Pacman un altre cop, no ens deixa, ja que l'hem desinstal·lat correctament.
 <img width="800" height="160" alt="image" src="https://github.com/user-attachments/assets/4509372f-ddfa-4e0f-90ae-d741a67df7df" />
 
-## Dia
+## 2. Dia
 
 Ara farem el mateix però amb el programa Dia i des de els repositoris d'Ubuntu amb apt install.
 <img width="800" height="572" alt="image" src="https://github.com/user-attachments/assets/6e600d7a-1f52-44b9-a535-1ffe2c52fede" />
@@ -28,7 +28,7 @@ Ara, amb apt purge el que farem es borrar el programa i totes les seves configur
 Com veiem, si intentem executar de nou el programa, no deixa ja que l'hem borrat correctament.
 <img width="538" height="132" alt="image" src="https://github.com/user-attachments/assets/95ea142d-cc0a-495d-98b8-d26ee7841e8f" />
 
-## Vlc
+## 3. Vlc
 
 Ara instal·larem vlc però utilitzant aptitude, i podem fer-ho per exemple accedint al root utlitzant sudo su i despres ja podem fer l'instal·lació amb aptitude install vlc.
 <img width="804" height="577" alt="image" src="https://github.com/user-attachments/assets/0c849b21-a6ff-4875-8739-f2fd2486eda9" />
@@ -43,7 +43,7 @@ I com veiem, si intento accedir un altre cop al programa, no hem deixa.
 <img width="804" height="209" alt="image" src="https://github.com/user-attachments/assets/a68d441e-21d1-4f15-8643-4f45c5119935" />
 
 
-## Geany
+## 4. Geany
 
 Ara instal·larem geany amb apt, posarem a la terminal sudo apt install geany.
 <img width="804" height="209" alt="image" src="https://github.com/user-attachments/assets/6a1529ec-276f-4b6e-b3b3-24da7c44eb77" />
