@@ -65,10 +65,28 @@ Després he seguit abançant amb la instal·lació convencional de Windows 10.
 Ara, he verificat que en apagar la màquina i tornarla a encendre, s'inicia amb el Windows.
 <img width="1028" height="770" alt="image" src="https://github.com/user-attachments/assets/39698522-4f1a-4712-a1d1-d1cec75e055c" />
 
+
+## Instal·lació del Grub
+
 A continuació, he accedit al firezilla i he instalat el grub.
 <img width="590" height="137" alt="image" src="https://github.com/user-attachments/assets/3fcd89d7-0679-4f25-b372-2428e440d1ef" />
 
-Després, he borrat l'iso del Windows 10.
+Després, he borrat l'iso del Windows 10. I he introduït la del supergrub
+
+<img width="677" height="212" alt="Captura de pantalla de 2025-10-07 13-01-59" src="https://github.com/user-attachments/assets/8e03f710-8850-4779-9afe-d82f9b83ab94" />
+<img width="266" height="212" alt="Captura de pantalla de 2025-10-07 13-04-11" src="https://github.com/user-attachments/assets/19154aae-8813-478b-b149-1e1e81313964" />
+
+A continuació, he iniciat la màquina virtual i he clicat repetidament la tecla "esc" fins que ha aparegut l'interfície del super_grub2. He seleccionat la segona opció (CD-ROM).
+<img width="365" height="160" alt="Captura de pantalla de 2025-10-07 13-06-45" src="https://github.com/user-attachments/assets/53d567a7-c757-410b-b016-9fc6fb738bc0" />
+
+Després, "Detect and show boot methods".
+<img width="481" height="184" alt="Captura de pantalla de 2025-10-07 13-07-48" src="https://github.com/user-attachments/assets/e9b0f236-85f7-4f7a-9a39-993bc26236ef" />
+
+I finalment, dins de les opcions de boot del ubuntu, he seleccionat l'opció gpt5
+<img width="481" height="184" alt="Captura de pantalla de 2025-10-07 13-07-48" src="https://github.com/user-attachments/assets/c9dd39fa-0f35-4b1e-975c-d5c74d3a6800" />
+
+El que hem aconseguit és iniciar la màquina virtual amb el sistema operatiu d'Ubuntu, per a ara poder ficar-li un grub que quan engeguem la màquina virtual de 0, ens doni l'opció d'elegir si volem iniciar-la en Windows o en Ubuntu.
+
 
 
 
