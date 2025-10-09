@@ -18,5 +18,17 @@ I com veiem, si intentem obrir Pacman un altre cop, no ens deixa, ja que l'hem d
 
 <img width="800" height="160" alt="image" src="https://github.com/user-attachments/assets/4509372f-ddfa-4e0f-90ae-d741a67df7df" />
 
+## Dia
 
+Ara farem el mateix però amb el programa Dia i des de els repositoris d'Ubuntu amb apt install.
+<img width="800" height="572" alt="image" src="https://github.com/user-attachments/assets/6e600d7a-1f52-44b9-a535-1ffe2c52fede" />
+
+Com veiem, si executem dia des del terminal s'obri correctament el programa.
+<img width="1100" height="572" alt="image" src="https://github.com/user-attachments/assets/5a0facb1-b946-4da3-8128-cb439728d53f" />
+
+Ara, amb apt purge el que farem es borrar el programa i totes les seves configuracions.
+<img width="800" height="572" alt="image" src="https://github.com/user-attachments/assets/4ada11aa-2389-4afd-a061-7787ea8c027a" />
+
+Com veiem, si intentem executar de nou el programa, no deixa ja que l'hem borrat correctament.
+<img width="538" height="132" alt="image" src="https://github.com/user-attachments/assets/95ea142d-cc0a-495d-98b8-d26ee7841e8f" />
 
