@@ -5,13 +5,15 @@ title: "Sprint 1: Instal·lació i configuració inicial"
 
 ## 1. Virtualització i instal·lació del so Ubuntu
 
-El primer que he fet ha sigut crear una màquina virtual. Per a saber les especificacions per la mateixa, he preguntat al chatGPT amb el meu cas específic quines serien les millors especificacions. En el meu cas, m'ha recomanat posar 8gb de memòria ram i 4 nuclis de cpu virtual.
+El primer que he fet ha sigut crear una màquina virtual. En el meu cas, les especificacions òptimes per a la màquina virtual garantitzant el seu rendiment i el rendiment del sistema principal és posar 8gb de memòria RAM i 4 nuclis de CPU virtual.
 
-![Imatge1](./imatges/Virtualitzacio_1.png)
+<img width="1920" height="1080" alt="Captura de pantalla de 2025-09-18 13-44-58" src="https://github.com/user-attachments/assets/1f81445e-edba-4774-88eb-2096e6d6a147" />
+
 
 A continuació, he asignat 80gb d'espai per a la màquina virtual.
 
-![](./imatges/Disc.png)
+<img width="1920" height="1080" alt="Captura de pantalla de 2025-09-18 13-45-11" src="https://github.com/user-attachments/assets/cd6902ce-df34-4ba3-a761-1b3f3271c2dc" />
+
 
 -------------------------------
 
