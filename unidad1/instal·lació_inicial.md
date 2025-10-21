@@ -5,7 +5,7 @@ title: "Instal·lació inicial"
 
 ## 1. Virtualització i instal·lació del so Ubuntu
 
-dEl primer que he fet ha sigut crear una màquina virtual. En el meu cas, les especificacions òptimes per a la màquina virtual garantitzant el seu rendiment i el rendiment del sistema principal és posar 8gb de memòria RAM i 4 nuclis de CPU virtual.
+El primer que he fet ha sigut crear una màquina virtual. En el meu cas, les especificacions òptimes per a la màquina virtual garantitzant el seu rendiment i el rendiment del sistema principal és posar 8gb de memòria RAM i 4 nuclis de CPU virtual.
 
 <img width="1920" height="1080" alt="Captura de pantalla de 2025-09-18 13-44-58" src="https://github.com/user-attachments/assets/1f81445e-edba-4774-88eb-2096e6d6a147" />
 
