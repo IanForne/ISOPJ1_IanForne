@@ -3,24 +3,14 @@ layout: default.html
 title: "Curso de Machine Learning"
 ---
 
-Este repositorio contiene el material del curso de Machine Learning desarrollado por Mireia Consarnau.
-
-- Índice y enlaces a las unidades del curso.
-- Recursos en formato PDF, vídeos, y Google Colab.
-- Código y ejemplos prácticos.
-
 ## Licencia
 
 Ele contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
-## Contenido del curso
+## Contingut del curs
 
 ### [Sprint 1: Instal·lació, Configuració Inicial i Programari de Base](unidad1/unidad1.md)  
 ### [Sprint 2: Instal·lació, Configuració de Programari de Base i Gestió de Fitxers](sp2/sp2.md)  
 ### [Sprint 3: Administració de Dominis i Seguretat](sp3/sp3.md)  
 ### [Sprint 4: Configuració del Programari de Base i Sistemes d’Emmagatzematge en Ubuntu](sp4/sp4.md)  
 ### [Sprint 5: Monitoratge, Auditories i Programari Client/Servidor](sp5/sp5.md)  
-
-### [Relación entre Unidades y Resultados de Aprendizaje (RAs)](ras.md)  
-
-### [FAQs](faqs/faqs.md)  
