@@ -1,6 +1,6 @@
 ---
-layout: default.html
-title: "Curso de Machine Learning"
+layout:default.html
+title:"Curso de Machine Learning"
 ---
 
 ## Licencia
