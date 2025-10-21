@@ -130,4 +130,4 @@ Finalment he guardat els canvis i ja hem deixa accedir tant al Windows com al Ub
 ## Gestors d'arrencada per a instal·lacións DUALS
 ## Punts de restauració
 ## Configuració de la xarxa
-## Comandes generals i instal·lacions
+## [Comandes generals i instal·lacions](Gestors_de_paquets.md)
