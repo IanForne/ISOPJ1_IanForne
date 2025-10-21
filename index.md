@@ -5,7 +5,7 @@ title: "Curso de Machine Learning"
 
 ## Licencia
 
-Ele contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contingut del curs
 
