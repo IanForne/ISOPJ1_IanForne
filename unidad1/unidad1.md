@@ -1,5 +1,5 @@
 asdasdasd
-
+asdasdasd
 ## [Instal·lació inicial](instal·lació_inicial.md)
 ## [Llicenciament](llicenciament.md)
 ## [Gestors d'arrencada per a instal·lacións DUALS](gestors_arrencada.md)
