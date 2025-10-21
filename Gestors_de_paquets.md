@@ -1,5 +1,3 @@
-Instal·lar i desinstal·lar en dpkg, apt, aptitude --> Com s'instala, obrir lo progreama, desinstal·lar i obrir i veure com falla pq esta desinstal·lat. Provar vlc, pacman, gimp, phpstorm, geany, dia, smplayer...
-
 ## 1. Pacman
 
 En primer lloc, instal·larem el .deb del pacman mitjançant el moodle. Seguidament, accedirem a la carpeta on s'ha fet la instal·lació i utilitzarem la comanda dpkg, ja que és un deb.
