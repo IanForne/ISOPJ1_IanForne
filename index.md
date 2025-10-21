@@ -1,7 +1,8 @@
 ---
-layout: default.html
-title: "Curso de Machine Learning"
+layout: default
+title: "Implantacó de sistemes operatius ASIX 1"
 ---
+
 
 ## Licencia
 
