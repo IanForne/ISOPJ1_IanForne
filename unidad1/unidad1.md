@@ -1,4 +1,7 @@
-## Sprint 1
+---
+layout: default
+title: "Sprint 1"
+---
 
 ### [Instal·lació inicial](instal·lació_inicial.md)
 ### [Llicenciament](llicenciament.md)
