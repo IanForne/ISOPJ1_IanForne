@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Gestors de paquets"
+---
+
+
 ## 1. Pacman
 
 En primer lloc, instal·larem el .deb del pacman mitjançant el moodle. Seguidament, accedirem a la carpeta on s'ha fet la instal·lació i utilitzarem la comanda dpkg, ja que és un deb.
