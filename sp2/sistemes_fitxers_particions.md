@@ -73,4 +73,10 @@ hem formatat la mida de bloc a 2048
 <img width="760" height="116" alt="image" src="https://github.com/user-attachments/assets/b5671acc-2fcb-4820-bde7-0494ac3985cc" />
 Com veiem, amb aquesta comanda hem comprobat que la modificació de la mida del block s'ha efectuat correctament.
 
+<img width="798" height="116" alt="image" src="https://github.com/user-attachments/assets/ffa840b6-e1d9-419e-96f0-426272e6a914" />
+Amb aquesta comanda hem modificat el bloc de la particio b a 4096 bytes.
+
+<img width="771" height="334" alt="image" src="https://github.com/user-attachments/assets/100f3da5-f1cf-4f09-8f21-4e99dbe40ae4" />
+
+Com veiem, totes les particions s'han efectuat correctament.
 
