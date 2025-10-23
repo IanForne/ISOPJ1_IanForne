@@ -6,7 +6,6 @@ title: "Sistemes, fitxers i particions"
 ## 1. Mida secotr
 
 El sector és la unitat mínima física del disc on es guarden les dades i per defecte són 512 bytes.
-Un bloc o clúster és la unitat mínima lògica on es guarden les dades en el sistema operatiu, per defecte són 4096 bytes. Tot i que es pot cambiar aquesta mida quan es fromata el disc. I a més, el tamany pot ser diferent a cada partició del mateix disc.
 
 <img width="648" height="316" alt="image" src="https://github.com/user-attachments/assets/8f50ccb1-c644-4271-9ac2-417bfd857d43" />
 
@@ -17,8 +16,11 @@ Com es veu en la imatge, hem creat un fitxer que conté "Bon dia". Aquest fitxer
 D'altra banda, com es veu en la imatge, la mida del sector es de 512 bytes com haviem vist anteriorment.
 
 ## 2. Mida block
+Un bloc o clúster és la unitat mínima lògica on es guarden les dades en el sistema operatiu, per defecte són 4096 bytes. Tot i que es pot cambiar aquesta mida quan es fromata el disc. I a més, el tamany pot ser diferent a cada partició del mateix disc.
 
+<img width="765" height="191" alt="image" src="https://github.com/user-attachments/assets/d159cf29-96dc-4832-ad89-90d107cdfe3b" />
 
+Per a trobar la mida del block, li hem de passar la partició que conté el nostre SO, ja que entre particions aquesta pot variar. I com veiem, la seva mida per defecte és de 4096 bytes.
 
 ## 3. Fragmentació interna
 
