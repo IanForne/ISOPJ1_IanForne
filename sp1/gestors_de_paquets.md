@@ -55,4 +55,6 @@ Seguidament, borrarem el programa amb aptitude, escriurem a la terminal aptitude
 I com veiem, cuan torno a escriure geany a la terminal surt error.
 <img width="804" height="137" alt="image" src="https://github.com/user-attachments/assets/ab2d2be0-53a6-4901-94b9-4b959206a203" />
 
+asd
+
 
