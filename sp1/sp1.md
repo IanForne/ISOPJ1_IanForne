@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sprint 1"
+title: "Sprint 1: Instal·lació, Configuració Inicial i Programari de Base"
 ---
 
 ### [Instal·lació inicial](instal·lació_inicial.md)
