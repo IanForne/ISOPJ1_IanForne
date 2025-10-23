@@ -30,4 +30,4 @@ Un bloc es la unitat mínima lògica on es guarden les dades en el sistema opera
 
 ### 6.1 GPARTED
 
-### Comandes
+### 6.2 Comandes
