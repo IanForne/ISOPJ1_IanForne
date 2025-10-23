@@ -68,15 +68,29 @@ Amb el gparted, podem fer el mateix que amb les comandes, encara que l'únic que
 Com es veu, hem fet una partició d'aproximadament la meitat del total del disc.
 
 <img width="1023" height="424" alt="image" src="https://github.com/user-attachments/assets/31884918-01ac-4b44-93ff-7a0b59c6616b" />
-hem formatat la mida de bloc a 2048
+
+Hem formatat la mida de bloc a 2048
 
 <img width="760" height="116" alt="image" src="https://github.com/user-attachments/assets/b5671acc-2fcb-4820-bde7-0494ac3985cc" />
+
 Com veiem, amb aquesta comanda hem comprobat que la modificació de la mida del block s'ha efectuat correctament.
 
 <img width="798" height="116" alt="image" src="https://github.com/user-attachments/assets/ffa840b6-e1d9-419e-96f0-426272e6a914" />
+
 Amb aquesta comanda hem modificat el bloc de la particio b a 4096 bytes.
 
 <img width="771" height="334" alt="image" src="https://github.com/user-attachments/assets/100f3da5-f1cf-4f09-8f21-4e99dbe40ae4" />
 
 Com veiem, totes les particions s'han efectuat correctament.
+
+---------------
+
+<img width="761" height="243" alt="image" src="https://github.com/user-attachments/assets/b6eac661-1edb-4a40-904d-5b84545d9113" />
+
+<img width="421" height="190" alt="image" src="https://github.com/user-attachments/assets/2ec3efb7-d512-4faf-b316-959006025871" />
+
+<img width="488" height="176" alt="image" src="https://github.com/user-attachments/assets/1d649c8d-64fd-49d0-b353-49dd2db519d6" />
+
+
+
 
