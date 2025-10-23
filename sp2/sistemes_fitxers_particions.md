@@ -47,6 +47,10 @@ Només borra el ssitema de fitxers, no borra els fixers en sí.
 
 ## 6. Gestió de particions
 
+Una partició és un tros de disc físic, tot i que es pot treballar amb volums, que no és un tros de disc físic, sinó que és una agrupació lògica de particions i/o discs. És a dir, és com posar una capa d'abstracció damunt de les particions.
+
+Per exemple, pots tenir diferents discs, de diferents tamanys, diferents marques, etc, i pots juntar aquests discs individuals per a treballar conjuntament amb ells de manera única. Tot i que, el més recomanat per a evitar problemes és tenir discs amb els mateixos tamanys, velocitats i de la mateixa marca.
+
 ### 6.1 GPARTED
 
 ### 6.2 Comandes
