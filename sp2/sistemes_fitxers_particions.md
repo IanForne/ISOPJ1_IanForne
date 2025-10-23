@@ -51,6 +51,15 @@ Una partició és un tros de disc físic, tot i que es pot treballar amb volums,
 
 Per exemple, pots tenir diferents discs, de diferents tamanys, diferents marques, etc, i pots juntar aquests discs individuals per a treballar conjuntament amb ells de manera única. Tot i que, el més recomanat per a evitar problemes és tenir discs amb els mateixos tamanys, velocitats i de la mateixa marca.
 
+
 ### 6.1 GPARTED
 
+<img width="773" height="375" alt="image" src="https://github.com/user-attachments/assets/43ab6717-f1ad-4084-8378-350fe6280a31" />
+
+Amb el gparted, podem fer el mateix que amb les comandes, encara que l'únic que no podem fer és modificar la mida del block.
+
 ### 6.2 Comandes
+
+<img width="1023" height="521" alt="image" src="https://github.com/user-attachments/assets/827dca80-6b89-4fc0-9127-9eb904f2d2c9" />
+
+Com es veu, hem fet una partició d'aproximadament la meitat del total del disc.
