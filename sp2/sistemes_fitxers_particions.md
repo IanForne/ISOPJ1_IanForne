@@ -12,6 +12,10 @@ Un bloc o clúster és la unitat mínima lògica on es guarden les dades en el s
 
 Com es veu en la imatge, hem creat un fitxer que conté "Bon dia". Aquest fitxer mesura 8 bytes, però el sistema està utilitzan 4096 bytes per emmagatzemar aquesta informació. Per tant, estem desaprofitant molt d'espai per emmagazemar un fitxer en un bloc massa gran.
 
+<img width="648" height="331" alt="image" src="https://github.com/user-attachments/assets/6502412f-bd90-421d-a695-c1badf98843f" />
+
+D'altra banda, com es veu en la imatge, la mida del sector es de 512 bytes com haviem vist anteriorment.
+
 ## 2. Mida block
 
 
