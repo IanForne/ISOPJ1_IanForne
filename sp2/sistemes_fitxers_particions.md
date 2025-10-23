@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Sistemes, fitxers i particions"
+---
+
 ## 1. Mida secotr
 
 El sector és la unitat mínima física del disc on es guarden les dades i per defecte són 512 bytes.
