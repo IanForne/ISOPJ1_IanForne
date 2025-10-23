@@ -22,13 +22,14 @@ A mesura que es treballa amb un arxiu, es van separant els components d'aquest d
 
 ## 5. Tipus de formateig
 
-
-
 ### 5.1 Baix nivell
+Borra el sistema de fitxers, els fitxers, i a més borra els sectors defectuosos. És a dir, esborra totes les dades, el deixa com si fos de fàbrica. A més, no es pot formatar a partir del sistema operatiu, és necessiten programes externs especialitzats amb la formatació.
 
 ### 5.2 Mig nivell
+El que borra és el sistema de fitxers, i si troba algun secor defectuós o algun lloc on no es pot emaagatzermar dades els marca per a no guardar més informació dins, però no els borra.
 
 ### 5.3 Alt nivell
+Només borra el ssitema de fitxers, no borra els fixers en sí.
 
 
 ## 6. Gestió de particions
