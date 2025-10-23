@@ -18,7 +18,7 @@ La fragmentació interna es dona quan es desaprofita espai del disc pequè els b
 
 ## 4. Fragmentació externa
 
-
+A mesura que es treballa amb un arxiu, es van separant els components d'aquest de forma que al llarg dels temps, s'arrelenteix la velocitat del disc a l'hora de llegir aquell fitxer.
 
 ## 5. Tipus de formateig
 
