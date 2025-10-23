@@ -1,7 +1,7 @@
 ## 1. Mida secotr
 
 El sector és la unitat mínima física del disc on es guarden les dades i per defecte són 512 bytes.
-Un bloc es la unitat mínima lògica on es guarden les dades en el sistema operatiu, per defecte són 4096 bytes. Tot i que es pot cambiar aquesta mida quan es fromata el disc.
+Un bloc es la unitat mínima lògica on es guarden les dades en el sistema operatiu, per defecte són 4096 bytes. Tot i que es pot cambiar aquesta mida quan es fromata el disc. I a més, pot ser diferent a cada partició del mateix disc.
 
 ## 2. Mida block
 
