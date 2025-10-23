@@ -91,6 +91,15 @@ Com veiem, totes les particions s'han efectuat correctament.
 
 <img width="488" height="176" alt="image" src="https://github.com/user-attachments/assets/1d649c8d-64fd-49d0-b353-49dd2db519d6" />
 
+<img width="759" height="300" alt="image" src="https://github.com/user-attachments/assets/857d5548-f7e4-4f31-94ce-28a0c08fbf7d" />
+
+<img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/268c6fd0-1e76-4575-9f53-0df1a2431fe8" />
+
+<img width="408" height="117" alt="image" src="https://github.com/user-attachments/assets/18ecbed2-9a3f-4e59-a6a1-7edc7cf12df0" />
+
+
+
+
 
 
 
