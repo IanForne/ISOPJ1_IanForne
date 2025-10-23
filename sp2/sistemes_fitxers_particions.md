@@ -62,4 +62,15 @@ Amb el gparted, podem fer el mateix que amb les comandes, encara que l'únic que
 
 <img width="1023" height="521" alt="image" src="https://github.com/user-attachments/assets/827dca80-6b89-4fc0-9127-9eb904f2d2c9" />
 
+<img width="1023" height="277" alt="image" src="https://github.com/user-attachments/assets/176a5083-bfcb-4912-a66e-59dfac8a65f3" />
+
+
 Com es veu, hem fet una partició d'aproximadament la meitat del total del disc.
+
+<img width="1023" height="424" alt="image" src="https://github.com/user-attachments/assets/31884918-01ac-4b44-93ff-7a0b59c6616b" />
+hem formatat la mida de bloc a 2048
+
+<img width="760" height="116" alt="image" src="https://github.com/user-attachments/assets/b5671acc-2fcb-4820-bde7-0494ac3985cc" />
+Com veiem, amb aquesta comanda hem comprobat que la modificació de la mida del block s'ha efectuat correctament.
+
+
