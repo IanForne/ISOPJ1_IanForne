@@ -44,5 +44,5 @@ Normalment, Ubuntu utilitza la **versió 3 (GPLv3)**, encara que alguns dels seu
    Això vol dir que si crees una versió modificada i vols anomenar-la “Ubuntu”, hauràs de seguir les directrius de Canonical.
    Tanmateix, si només utilitzes o distribueixes Ubuntu sense modificar-lo, no hi ha cap inconvenient.
 
-## [Text legal complet](https://canonical.com/legal/intellectual-property-policy)
+## [Llicència completa](https://canonical.com/legal/intellectual-property-policy)
 
