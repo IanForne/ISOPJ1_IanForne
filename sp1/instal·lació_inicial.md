@@ -45,6 +45,9 @@ A banda, he fet un clon de la màquina per a futurs projectes i per a que actui 
 
 <img width="773" height="411" alt="Captura de pantalla de 2025-10-07 10-31-08" src="https://github.com/user-attachments/assets/b123e97b-6101-4cf0-bf49-0254832e35d5" />
 
+Ara podem executar la màquina i veiem que s'ha iniciat correctament l'Ubuntu.
+
+<img width="1279" height="800" alt="Captura de pantalla de 2025-10-07 13-24-35" src="https://github.com/user-attachments/assets/39224b5d-99cf-4233-b899-0c2605042919" />
 
 
 
