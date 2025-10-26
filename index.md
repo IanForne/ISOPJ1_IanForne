@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Implantacó de sistemes operatius ASIX 1"
+title: "**Implantacó de sistemes operatius ASIX 1**"
 ---
 
 
