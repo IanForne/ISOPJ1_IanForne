@@ -128,5 +128,6 @@ He accedit a aquests fitxers i he descomentat la següent linea.
 
 Finalment he guardat els canvis i ja hem deixa accedir tant al Windows com al Ubuntu.
 
+<img width="597" height="126" alt="image" src="https://github.com/user-attachments/assets/70fc28b3-64c5-4d14-bd60-d5037fa3bdc9" />
 <img width="1027" height="767" alt="image" src="https://github.com/user-attachments/assets/3dcca637-4c30-4a21-bede-22ffd1a8d47b" />
 <img width="1279" height="800" alt="Captura de pantalla de 2025-10-07 13-24-35" src="https://github.com/user-attachments/assets/39224b5d-99cf-4233-b899-0c2605042919" />
