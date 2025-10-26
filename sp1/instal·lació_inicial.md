@@ -46,6 +46,7 @@ A banda, he fet un clon de la màquina per a futurs projectes i per a que actui 
 <img width="773" height="411" alt="Captura de pantalla de 2025-10-07 10-31-08" src="https://github.com/user-attachments/assets/b123e97b-6101-4cf0-bf49-0254832e35d5" />
 
 
+# Instal·lacions DUALS
 
 ----------------------
 ## 3. Activació del mode EFI
