@@ -4,9 +4,9 @@ title: "Implantacó de sistemes operatius ASIX 1"
 ---
 
 
-## Licencia
+## Llicència
 
-El contenido está bajo licencia [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
+Aquest repositori conté els diferents sprints del Projecte 1 de Ian Forné Tomàs [Creative Commons BY-NC-SA 3.0 ES](LICENSE.md).
 
 ## Contingut del curs
 
