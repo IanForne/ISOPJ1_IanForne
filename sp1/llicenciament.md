@@ -1,4 +1,8 @@
-**Llicenciament**
+---
+layout: default
+title: "Llicènciament"
+---
+
 **Llicència d’Ubuntu**
 
 1. **Ubuntu com a programari lliure i de codi obert**
