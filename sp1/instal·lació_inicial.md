@@ -46,16 +46,18 @@ A banda, he fet un clon de la màquina per a futurs projectes i per a que actui 
 <img width="773" height="411" alt="Captura de pantalla de 2025-10-07 10-31-08" src="https://github.com/user-attachments/assets/b123e97b-6101-4cf0-bf49-0254832e35d5" />
 
 
-# Instal·lacions DUALS
+
 
 ----------------------
-## 3. Activació del mode EFI
+# Instal·lacions DUALS
+
+## 1. Activació del mode EFI
 
 Per activar el mode EFI, primer que res hem d'aturar la màquina virtual. Després, hem d'accedir als paràmetres i anar a l'apartat de sistema, un cop verifiquem que estem en la pestanya de la placa base, hem de buscar i activar el mode EFI que ve per defecte desactivat.
 
 <img width="865" height="562" alt="Captura de pantalla de 2025-10-07 10-36-54" src="https://github.com/user-attachments/assets/29dc17e7-e97b-45cc-963d-d0f5e6850ea2" />
 
-## 4. Configuració del Windows
+## 2. Configuració del Windows
 
 Un cop hem activat el mode EFI, quan iniciem la màquina ens diu que no ha pogut trobar un sistema operatiu (no he pogut fer captura) i que n'instal·lèssim un. En aquest punt, he seleccionat l'ISO de Windows 10. 
 
@@ -78,7 +80,7 @@ Ara, he verificat que en apagar la màquina i tornarla a encendre, s'inicia amb 
 <img width="1028" height="770" alt="image" src="https://github.com/user-attachments/assets/39698522-4f1a-4712-a1d1-d1cec75e055c" />
 
 
-## Instal·lació del Grub
+## 3. Instal·lació del Grub
 
 A continuació, he accedit al firezilla i he instalat el grub.
 
@@ -103,7 +105,7 @@ I finalment, dins de les opcions de boot del ubuntu, he seleccionat l'opció gpt
 
 El que hem aconseguit és iniciar la màquina virtual amb el sistema operatiu d'Ubuntu, per a ara poder ficar-li un grub que quan engeguem la màquina virtual de 0, ens doni l'opció d'elegir si volem iniciar-la en Windows o en Ubuntu.
 
-## Configuració del grub des de Ubuntu
+## 4. Configuració del grub des de Ubuntu
 
 Una vegada iniciat Ubuntu, he instal·lat el grub en la partició sda.
 
