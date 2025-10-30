@@ -11,7 +11,9 @@ h1, h2, h3 {
   margin-bottom: 10px;
   color: #2c3e50;
 }
-
+h1{
+  font-weight: bold;
+}
 /* Enlaces */
 a {
   color: #1a73e8;
