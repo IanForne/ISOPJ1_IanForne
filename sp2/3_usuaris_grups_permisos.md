@@ -70,6 +70,13 @@ Per a crear un usuari amb useradd hem de crear el nom d'usuari, crar el director
 
 <img width="695" height="282" alt="image" src="https://github.com/user-attachments/assets/7fcf5369-62ac-4520-a139-2b5375cac28d" />
 
+<img width="695" height="146" alt="image" src="https://github.com/user-attachments/assets/c79f0b17-4029-42d5-85c3-a3d6c019e155" />
+
+
+**EXERCICI 1:** Quines comandes he d'utilitzar quan vull canviar un nom d'usuari correctament, és a dir, que estigui relacionat amb la seva home, el nom de la seva carpeta, etc.
+**EXERCICI 2** Tot el que puguem fer en una única comanda per a crear un nou usuari, com haviem fet en comandes separades amb useradd, però junt.
+
+
 
 ## 3. Directoris i fitxers importants
 
