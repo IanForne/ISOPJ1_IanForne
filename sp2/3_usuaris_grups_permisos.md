@@ -44,6 +44,20 @@ Podem comprovar que ens l'ha creat fent les seguents comprovacions i veient que 
 <img width="644" height="92" alt="image" src="https://github.com/user-attachments/assets/c2147786-5882-46da-86d0-659087e3260a" />
 
 
+<img width="623" height="132" alt="image" src="https://github.com/user-attachments/assets/2f9fa265-0d7e-48e4-9424-060fe4412a3f" />
+
+<img width="623" height="132" alt="image" src="https://github.com/user-attachments/assets/34778678-d2d8-48ea-b1b8-0b140e8c76ae" />
+
+<img width="623" height="104" alt="image" src="https://github.com/user-attachments/assets/8e4a3157-b93a-4431-b948-84784fdd6fa2" />
+
+<img width="623" height="123" alt="image" src="https://github.com/user-attachments/assets/386c7a81-ce84-44d4-b304-8676c11b8f9c" />
+
+<img width="623" height="161" alt="image" src="https://github.com/user-attachments/assets/c25a03cb-697d-4700-a925-4ed470180022" />
+
+<img width="623" height="248" alt="image" src="https://github.com/user-attachments/assets/044c0e44-4214-47c9-a281-cca20801f7db" />
+
+Per a crear un usuari amb useradd hem de crear el nom d'usuari, crar el directori home li hem donat permisos a la seva carpeta, li hem creat una contrassenya i opcionalment es pot canviar el seu interpret
+
 ## 3. Directoris i fitxers importants
 
 
