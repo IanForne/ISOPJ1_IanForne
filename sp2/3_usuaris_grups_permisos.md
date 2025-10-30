@@ -30,8 +30,18 @@ Podem veure els usuaris que son part d'un grup i l'administrador de cada grup, q
 Amb l'eina system-tools també es poden crear usuaris i administrar grups, tot i que nosaltres ho farem tot en comandes, pot ser una eina útil per a persones que no es volen complicar molt la vida.
 
 
-
 ## 2. Comandes bàsiques
+
+<img width="724" height="468" alt="image" src="https://github.com/user-attachments/assets/4609809e-07ee-4348-bfae-8a55743dbc14" />
+**adduser** per a crear un nou usuari.
+
+<img width="892" height="248" alt="image" src="https://github.com/user-attachments/assets/81bd2247-facf-401f-b7f8-cde83ad5b5d2" />
+
+Podem comprovar que ens l'ha creat fent les seguents comprovacions i veient que ens ha creat les carpetes corresponens, menys les que es creen quan iniciem gràficament l'usuari per primera vegada.
+
+**deluser** per a borrar l'usuari
+
+<img width="644" height="92" alt="image" src="https://github.com/user-attachments/assets/c2147786-5882-46da-86d0-659087e3260a" />
 
 
 ## 3. Directoris i fitxers importants
