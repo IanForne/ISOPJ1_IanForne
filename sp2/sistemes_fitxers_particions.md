@@ -62,14 +62,15 @@ Amb el gparted, podem fer el mateix que amb les comandes, encara que l'únic que
 
 <img width="1023" height="521" alt="image" src="https://github.com/user-attachments/assets/827dca80-6b89-4fc0-9127-9eb904f2d2c9" />
 
+Hem creat una partició d'aproximadament la meitat del disc.
+
 <img width="1023" height="277" alt="image" src="https://github.com/user-attachments/assets/176a5083-bfcb-4912-a66e-59dfac8a65f3" />
 
-
-Com es veu, hem fet una partició d'aproximadament la meitat del total del disc.
+Ara hem comprovat que s'ha efectuat correctament.
 
 <img width="1023" height="424" alt="image" src="https://github.com/user-attachments/assets/31884918-01ac-4b44-93ff-7a0b59c6616b" />
 
-Hem formatat la mida de bloc a 2048
+Hem formatat la mida de block a 2048 bytes.
 
 <img width="760" height="116" alt="image" src="https://github.com/user-attachments/assets/b5671acc-2fcb-4820-bde7-0494ac3985cc" />
 
@@ -77,7 +78,7 @@ Com veiem, amb aquesta comanda hem comprobat que la modificació de la mida del 
 
 <img width="798" height="116" alt="image" src="https://github.com/user-attachments/assets/ffa840b6-e1d9-419e-96f0-426272e6a914" />
 
-Amb aquesta comanda hem modificat el bloc de la particio b a 4096 bytes.
+Ara hem tornat a la mida per defecte del block.
 
 <img width="771" height="334" alt="image" src="https://github.com/user-attachments/assets/100f3da5-f1cf-4f09-8f21-4e99dbe40ae4" />
 
@@ -87,13 +88,23 @@ Com veiem, totes les particions s'han efectuat correctament.
 
 <img width="761" height="243" alt="image" src="https://github.com/user-attachments/assets/b6eac661-1edb-4a40-904d-5b84545d9113" />
 
+Dins de la carpeta mnt, hem creat un altra amb el nom de particio1, i fent un ls podem veure que està buida. A continuació, hem creat un petit fitxer amb el nom "adeu" i si tornem a fer ls podem veure que s'ha creat correctament.
+
 <img width="421" height="190" alt="image" src="https://github.com/user-attachments/assets/2ec3efb7-d512-4faf-b316-959006025871" />
+
+
 
 <img width="488" height="176" alt="image" src="https://github.com/user-attachments/assets/1d649c8d-64fd-49d0-b353-49dd2db519d6" />
 
+
+
 <img width="759" height="300" alt="image" src="https://github.com/user-attachments/assets/857d5548-f7e4-4f31-94ce-28a0c08fbf7d" />
 
+
+
 <img width="759" height="335" alt="image" src="https://github.com/user-attachments/assets/268c6fd0-1e76-4575-9f53-0df1a2431fe8" />
+
+
 
 <img width="408" height="117" alt="image" src="https://github.com/user-attachments/assets/18ecbed2-9a3f-4e59-a6a1-7edc7cf12df0" />
 
