@@ -25,6 +25,12 @@ En aquest fitexer podem veire tots los usuaris del sistema i a quins grups perta
 
 Podem veure els usuaris que son part d'un grup i l'administrador de cada grup, que només pot hi haver un.
 
+<img width="724" height="437" alt="image" src="https://github.com/user-attachments/assets/2d51ade2-a3e2-4f56-b7af-182b4c9c13e8" />
+
+Amb l'eina system-tools també es poden crear usuaris i administrar grups, tot i que nosaltres ho farem tot en comandes, pot ser una eina útil per a persones que no es volen complicar molt la vida.
+
+
+
 ## 2. Comandes bàsiques
 
 
