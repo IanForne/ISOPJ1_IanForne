@@ -3,6 +3,16 @@ layout: default
 title: "Gestió d'usuaris grups i permisos"
 ---
 
-# asd
-## asd
-### asd
+# Fitxers importants
+
+
+# Comandes bàsiques
+
+
+# Directoris i fitxers importants
+
+
+# Gestió avançada
+
+
+# PAM
