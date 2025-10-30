@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Sprint 2: Instal·lació, Configuració de Programari de Base i Gestió de Fitxers (20h)"
+title: "Sprint 2: Instal·lació, Configuració de Programari de Base i Gestió de Fitxers"
 ---
 
 ## [Sistemes de fitxers i particions](sistemes_fitxers_particions.md)
