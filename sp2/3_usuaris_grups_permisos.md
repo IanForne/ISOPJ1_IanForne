@@ -80,8 +80,11 @@ Per a crear un usuari amb useradd hem de crear el nom d'usuari, crar el director
 
 ## 3. Directoris i fitxers importants
 
+<img width="622" height="254" alt="image" src="https://github.com/user-attachments/assets/3177f4ef-149d-4338-b0ee-9ea1b43135bf" />
+
 
 ## 4. Gestió avançada
 
 
 ## 5. PAM
+
