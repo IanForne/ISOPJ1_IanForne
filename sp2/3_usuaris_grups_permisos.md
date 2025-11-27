@@ -85,8 +85,22 @@ Per a crear un usuari amb useradd hem de crear el nom d'usuari, crar el director
 
 ## 4. Gestió avançada
 
+<img width="372" height="173" alt="Captura de pantalla de 2025-11-25 13-13-00" src="https://github.com/user-attachments/assets/2b18827c-2dab-48f7-a758-e3f9d246f72f" />
+
+<img width="708" height="351" alt="Captura de pantalla de 2025-11-25 13-15-20" src="https://github.com/user-attachments/assets/527b33f9-6801-4934-97e8-cf76700495d8" />
+
+<img width="547" height="245" alt="Captura de pantalla de 2025-11-25 13-17-40" src="https://github.com/user-attachments/assets/7bb19804-1f5b-466c-b363-08b8fecf4e04" />
+
+<img width="547" height="245" alt="Captura de pantalla de 2025-11-25 13-19-04" src="https://github.com/user-attachments/assets/712a544c-061d-45ed-ac78-bdaf4ca16ffd" />
+
+<img width="547" height="245" alt="Captura de pantalla de 2025-11-25 13-19-34" src="https://github.com/user-attachments/assets/9dacaf0d-4175-4d5e-8968-b8c69472d533" />
+
 
 <img width="392" height="168" alt="image" src="https://github.com/user-attachments/assets/03da7385-5f68-4162-907d-1e5a2dd8ef80" />
+
+<img width="561" height="228" alt="image" src="https://github.com/user-attachments/assets/c9a14f33-7408-46ed-b859-f29acab957b4" />
+
+<img width="480" height="187" alt="image" src="https://github.com/user-attachments/assets/81aa59d1-f5aa-4c86-b5c2-ecbd12d3c547" />
 
 ## 5. PAM
 
