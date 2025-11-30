@@ -86,9 +86,17 @@ Per a crear un usuari amb useradd hem de crear el nom d'usuari, crar el director
 
 <img width="372" height="173" alt="Captura de pantalla de 2025-11-25 13-13-00" src="https://github.com/user-attachments/assets/2b18827c-2dab-48f7-a758-e3f9d246f72f" />
 
+Umask mostra o canvia la màscara de permisos per defecte amb què es creen fitxers i carpetes.
+
+umask sense arguments mostra el valor actual (ex.: 0002, 0004).
+
+Aquest valor resta permisos als valors per defecte (fitxers 666, carpetes 777).
+
 <img width="708" height="351" alt="Captura de pantalla de 2025-11-25 13-15-20" src="https://github.com/user-attachments/assets/527b33f9-6801-4934-97e8-cf76700495d8" />
 
 <img width="547" height="245" alt="Captura de pantalla de 2025-11-25 13-17-40" src="https://github.com/user-attachments/assets/7bb19804-1f5b-466c-b363-08b8fecf4e04" />
+
+Serveixen per crear una carpeta (proves) i un fitxer buit (proves2) per comprovar quins permisos s’apliquen segons el umask configurat.
 
 <img width="547" height="245" alt="Captura de pantalla de 2025-11-25 13-19-04" src="https://github.com/user-attachments/assets/712a544c-061d-45ed-ac78-bdaf4ca16ffd" />
 
@@ -100,6 +108,15 @@ Per a crear un usuari amb useradd hem de crear el nom d'usuari, crar el director
 <img width="561" height="228" alt="image" src="https://github.com/user-attachments/assets/c9a14f33-7408-46ed-b859-f29acab957b4" />
 
 <img width="480" height="187" alt="image" src="https://github.com/user-attachments/assets/81aa59d1-f5aa-4c86-b5c2-ecbd12d3c547" />
+
+getfacl numeros mostra les ACL (Access Control List) del fitxer numeros.
+Indica: propietari, grup, permisos d’usuari, grup i altres, permisos ACL afegits
+
+setfacl -m user:segon:--- numeros modifica les ACL del fitxer, afegint o canviant els permisos per a l’usuari segon, en aquest cas deixant-lo sense cap permís.
+
+setfacl -b numeros esborra totes les ACL del fitxer i el deixa només amb els permisos tradicionals (rwx per owner, etc.).
+
+Aquests passos mostren com canviar permisos per defecte (umask), crear elements per comprovar-los i com gestionar permisos avançats amb ACL (getfacl i setfacl).
 
 ## 5. PAM
 
