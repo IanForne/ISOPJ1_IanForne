@@ -3,6 +3,10 @@ layout: default
 title: "Gestió d'usuaris grups i permisos"
 ---
 
+Un usuari és qualsevol entitat capaç d’executar processos i de ser propietària de fitxers. El sistema operatiu no identifica les persones pel seu nom, sinó mitjançant un número únic anomenat UID. Segons aquest identificador i els permisos associats, els usuaris es classifiquen en tres nivells. En primer lloc hi ha el superusuari o root, amb UID 0, que disposa de control absolut sobre el sistema i pot accedir, modificar o eliminar qualsevol fitxer, així com aturar qualsevol procés. A continuació trobem els usuaris del sistema, amb UID entre 1 i 999, creats específicament perquè els serveis i processos interns funcionin; aquests usuaris no poden iniciar sessió. Finalment hi ha els usuaris normals, amb UID a partir de 1000, creats per a l’ús de persones. Disposen d’un directori personal dins de /home i no poden modificar fitxers del sistema sense permisos addicionals. Tots els usuaris definits es poden consultar al fitxer /etc/passwd.
+
+Un grup és una col·lecció lògica d’usuaris que comparteixen determinats permisos, identificats per un GID. Els grups faciliten l’administració del sistema. Cada usuari pot pertànyer a diversos grups. El grup principal és obligatori i, habitualment, té el mateix nom que l’usuari; qualsevol fitxer creat per aquest usuari pertanyerà automàticament al seu grup principal. A més, l’usuari pot formar part de grups secundaris, que són opcionals i serveixen per concedir privilegis específics. Per exemple, per permetre que un usuari utilitzi sudo se l’afegeix al grup sudo, i per permetre l’ús de Docker se l’afegeix al grup docker. La definició de tots els grups del sistema es troba al fitxer /etc/group.
+
 ## 1. Fitxers importants
 
 <img width="1206" height="719" alt="image" src="https://github.com/user-attachments/assets/a013fca0-9fd1-4e8e-a287-a935474fb85a" />
@@ -71,11 +75,6 @@ Per a crear un usuari amb useradd hem de crear el nom d'usuari, crar el director
 <img width="695" height="282" alt="image" src="https://github.com/user-attachments/assets/7fcf5369-62ac-4520-a139-2b5375cac28d" />
 
 <img width="695" height="146" alt="image" src="https://github.com/user-attachments/assets/c79f0b17-4029-42d5-85c3-a3d6c019e155" />
-
-
-**EXERCICI 1:** Quines comandes he d'utilitzar quan vull canviar un nom d'usuari correctament, és a dir, que estigui relacionat amb la seva home, el nom de la seva carpeta, etc.
-**EXERCICI 2** Tot el que puguem fer en una única comanda per a crear un nou usuari, com haviem fet en comandes separades amb useradd, però junt.
-
 
 
 ## 3. Directoris i fitxers importants
